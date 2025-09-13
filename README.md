@@ -64,28 +64,3 @@ financial_ratio_analysis_tool/
 * **SQLAlchemy + SQLite**
 * **Jupyter Notebook**
 
----
-
-## 🎯 Why This Project?
-
-This project demonstrates:
-
-* Building a **data pipeline** (CSV → SQL → Query → Visualization)
-* Understanding of **financial ratios** (solvency, profitability, risk)
-* Ability to **communicate insights with clustering & visualizations**
-
-💼 Perfect for **Data Analysis, Actuarial, and Financial Data Engineering** roles.
-
----
-
-⚡ Next Step: Add your plots with
-
-```python
-plt.savefig("images/debt_equity_distribution.png")
-```
-
-so they appear in your README.
-
----
-
-👉 Do you want me to also write **a short 2–3 line resume description** for this project so you can paste it under “Projects” in your CV?
