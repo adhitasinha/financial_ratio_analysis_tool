@@ -1,9 +1,3 @@
-Perfect timing 🚀 Now that your project is on GitHub, let’s make a **professional README.md** so it looks polished.
-
-Here’s a full version you can paste into your repo as `README.md`:
-
----
-
 # 📊 Financial Ratio Analysis Tool
 
 This project automates the **extraction, storage, and analysis of financial ratios** for insurance and financial companies.
